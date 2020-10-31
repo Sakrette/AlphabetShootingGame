@@ -1,0 +1,15 @@
+html {
+    margin: 0 0;
+    user-select: none;
+    overflow: hidden;
+}
+
+body {
+    margin: 0 0;
+    background-color: lightblue;
+}
+
+p.score {
+    margin: 0 0;
+    color: red;
+}
